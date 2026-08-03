@@ -6,4 +6,5 @@ day-1
 make the board 
 
 board is completely done with no error now will work on pawns
+iteration 1 
 
