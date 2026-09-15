@@ -30,7 +30,7 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "c:/chess enginw",
-      "program": "c:/chess enginw/board.exe",
+      "program": "c:/chess enginw/chess.exe",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
