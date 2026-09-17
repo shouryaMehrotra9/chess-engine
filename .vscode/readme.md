@@ -9,5 +9,9 @@ board is completely done with no error now will work on pawns
 iteration 1 
 pawn is done
 knight is being built it will take 3 more sittings to complete knight
+knight is completely made 17/09/26
+next thing im working on is the rook 
+which till the moves is dont the logic is sorted just writing the codes part is missing
+
 
 
